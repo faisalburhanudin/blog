@@ -1,14 +1,14 @@
 +++
-title = "Flask Sqlalchemy"
+title = "Workshop Image Search and Image Clasification"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2017-06-08T11:55:15+07:00
-date_end = 2017-06-09T11:55:15+07:00
+date = 2018-02-24T12:13:15+07:00
+date_end = 2018-02-24T12:13:15+07:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-04-04T11:55:15+07:00
+publishDate = 2019-04-04T12:13:15+07:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -17,11 +17,11 @@ authors = []
 location = "Yogyakarta"
 
 # Name of event and optional event URL.
-event = "Python Meetup"
+event = "Machine Learning ID"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "Talks about Convolutional Neural Network for Image Classification."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -31,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["python", "sqlalchemy", "flask"]
+tags = []
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -55,7 +55,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_video = ""
-url_code = "https://github.com/faisalburhanudin/py89"
+url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
