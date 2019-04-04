@@ -1,14 +1,14 @@
 +++
-title = "Workshop Image Search and Image Clasification"
+title = "Data Gathering"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-02-24T12:13:15+07:00
-date_end = 2018-02-24T12:13:15+07:00
+date = 2019-03-16T09:00:00+07:00
+date_end = 2019-03-16T12:00:00+07:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-04-04T12:13:15+07:00
+publishDate = 2019-04-04T12:16:27+07:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -21,7 +21,7 @@ event = "Machine Learning ID"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "Talks about Convolutional Neural Network for Image Classification."
+abstract = ""
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -31,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["machine-learning", "neural-network"]
+tags = ["big-data", "machine-learning"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
