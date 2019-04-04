@@ -25,7 +25,8 @@ email = "faisalburhanudin@gmail.com"
 interests = [
   "Artificial Intelligence",
   "Cloud Computing",
-  "Data Science"
+  "Big Data",
+  "Web Service"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -71,6 +72,6 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-Working with Data, primarily code in python for create backend service, build machine learning model, and perform data analytics.
+Working with data, create backend service, build machine learning model, and perform data analytics.
 
 Very familiar with cloud ecosystem, such as aws and google cloud platform.
