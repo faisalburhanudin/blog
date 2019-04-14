@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Talk"
+  url = "#talks"
   weight = 30
 
 [[main]]
@@ -24,10 +24,9 @@
   weight = 40
 
 [[main]]
-  name = "Talk"
-  url = "#talks"
+  name = "Experience"
+  url = "#experience"
   weight = 50
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]

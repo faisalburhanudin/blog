@@ -61,7 +61,7 @@ url_code = "https://github.com/faisalburhanudin/py89"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Photo by Marius Masalar on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
