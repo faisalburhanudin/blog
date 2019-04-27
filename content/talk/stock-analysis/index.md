@@ -39,7 +39,7 @@ tags = ["python", "stock", "analysis"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "stock-analysis"
+slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
 url_slides = ""
@@ -55,7 +55,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/faisalburhanudin/research/blob/master/Analisa%20teknikal%20pasar%20saham%20menggunakan%20python.ipynb"
 
 # Demo talk page uses LaTeX math.
 # math = true
