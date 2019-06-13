@@ -16,7 +16,7 @@ role = "Backend Engineer"
 organizations = [ { name = "PT Sebangsa Bersama", url = "https://sebangsanetwork.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Working with data, create backend service, build machine learning model, and perform data analytics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "faisalburhanudin@gmail.com"
