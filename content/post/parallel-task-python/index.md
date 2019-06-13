@@ -59,7 +59,7 @@ import time
 
 def call_api():
     print('start request')
-    r = requests.get(f'http://www.mocky.io/v2/5d014d8d3200002800f9db80?mocky-delay=2s')
+    r = requests.get('http://www.mocky.io/v2/5d014d8d3200002800f9db80?mocky-delay=2s')
     print('end request')
     return r.json()
 ```
