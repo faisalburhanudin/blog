@@ -19,11 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Backend Engineer"
+  company = "Ruang Guru"
+  company_url = "https://ruangguru.com"
+  location = "Yogyakarta"
+  date_start = "2019-10-25"
+  date_end = ""
+
+[[experience]]
+  title = "Backend Engineer"
   company = "PT Sebangsa Bersama"
   company_url = "https://sebangsanetwork.com"
   location = "Yogyakarta"
   date_start = "2015-07-01"
-  date_end = ""
+  date_end = "2019-09-30"
   description = """
   Some work in this company 
 

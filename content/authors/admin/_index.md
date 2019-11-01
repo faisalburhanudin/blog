@@ -13,7 +13,7 @@ role = "Backend Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "PT Sebangsa Bersama", url = "https://sebangsanetwork.com/" } ]
+organizations = [ { name = "Ruang Guru", url = "https://ruangguru.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Working with data, create backend service, build machine learning model, and perform data analytics."
