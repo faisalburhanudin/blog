@@ -1,3 +1,3 @@
-[submodule "themes/simple-style"]
-	path = themes/simple-style
-	url = git@github.com:yanlinlin82/simple-style.git
+[submodule "themes/hugo-theme-even"]
+	path = themes/hugo-theme-even
+	url = git@github.com:olOwOlo/hugo-theme-even.git
