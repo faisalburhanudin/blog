@@ -10,4 +10,4 @@ draft = false
 tags = ["1%"]
 +++
 
-So I want to try 1% better every day via automation or develop new habit, doesn't need much changed, like this post which is just one sentence
+So I want to try 1% better every day via automation or develop new habit, doesn't need much changed, lets start with 1 sentence post every day, like this post.
